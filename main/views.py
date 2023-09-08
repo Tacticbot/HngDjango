@@ -17,8 +17,8 @@ def api(request):
         "current_day": current_day,
         "utc_time": utc,
         'track': track,
-        "github_file_url": "https://github.com/samuelIkoli/hngx-s1/blob/main/index.js",
-        "github_repo_url": "https://github.com/samuelIkoli/hngx-s1",
+        "github_file_url": "https://github.com/Tacticbot/HngTask1/blob/main/main/views.py",
+        "github_repo_url": "https://github.com/Tacticbot/HngTask1",
         "status_code": 200
 
     }
